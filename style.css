@@ -82,6 +82,7 @@ header {
 .container-img {
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .main-img {
@@ -186,13 +187,13 @@ li {
 
 }
 
-td {
+#kiwi-specs-table td {
     vertical-align: middle;
     padding-bottom: 8px;
     padding-right: 5px;
 }
 
-a {
+#link-wikipedia{
     color: blue;
 }
 
